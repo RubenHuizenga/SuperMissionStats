@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-FSR2TemporalUpscaling.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"S:\Code\UE\4.27.2\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"S:\Code\Deep Rock Mods\Mods\Super Mission Stats\Plugins\AMD\FSR2\Intermediate\Build\Win64\UE4Editor\Development\FSR2TemporalUpscaling\Module.FSR2TemporalUpscaling.cpp.obj"
+"S:\Code\Deep Rock Mods\Mods\Super Mission Stats\Plugins\AMD\FSR2\Intermediate\Build\Win64\UE4Editor\Development\FSR2TemporalUpscaling\Module.FSR2TemporalUpscaling.gen.cpp.obj"
+"S:\Code\UE\4.27.2\Engine\Intermediate\Build\Win64\UE4Editor\Development\Default.rc2.res"
+/OUT:"S:\Code\Deep Rock Mods\Mods\Super Mission Stats\Plugins\AMD\FSR2\Intermediate\Build\Win64\UE4Editor\Development\FSR2TemporalUpscaling\UE4Editor-FSR2TemporalUpscaling.lib"

@@ -1,0 +1,13 @@
+S:\Code\Deep Rock Mods\Mods\Super Mission Stats\Plugins\AMD\FSR2\Intermediate\Build\Win64\UE4Editor\Development\FSR2TemporalUpscaling\Definitions.FSR2TemporalUpscaling.h
+S:/Code/Deep Rock Mods/Mods/Super Mission Stats/Plugins/AMD/FSR2/Intermediate/Build/Win64/UE4Editor/Inc/FSR2TemporalUpscaling/EFSR2HistoryFormat.gen.cpp
+S:\Code\UE\4.27.2\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+S:\Code\UE\4.27.2\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+S:\Code\Deep Rock Mods\Mods\Super Mission Stats\Plugins\AMD\FSR2\Source\FSR2TemporalUpscaling/Public/EFSR2HistoryFormat.h
+S:\Code\Deep Rock Mods\Mods\Super Mission Stats\Plugins\AMD\FSR2\Intermediate\Build\Win64\UE4Editor\Inc\FSR2TemporalUpscaling\EFSR2HistoryFormat.generated.h
+S:/Code/Deep Rock Mods/Mods/Super Mission Stats/Plugins/AMD/FSR2/Intermediate/Build/Win64/UE4Editor/Inc/FSR2TemporalUpscaling/EFSR2QualityMode.gen.cpp
+S:\Code\Deep Rock Mods\Mods\Super Mission Stats\Plugins\AMD\FSR2\Source\FSR2TemporalUpscaling/Public/EFSR2QualityMode.h
+S:\Code\Deep Rock Mods\Mods\Super Mission Stats\Plugins\AMD\FSR2\Intermediate\Build\Win64\UE4Editor\Inc\FSR2TemporalUpscaling\EFSR2QualityMode.generated.h
+S:/Code/Deep Rock Mods/Mods/Super Mission Stats/Plugins/AMD/FSR2/Intermediate/Build/Win64/UE4Editor/Inc/FSR2TemporalUpscaling/FSR2Settings.gen.cpp
+S:\Code\Deep Rock Mods\Mods\Super Mission Stats\Plugins\AMD\FSR2\Source\FSR2TemporalUpscaling/Public/FSR2Settings.h
+S:\Code\Deep Rock Mods\Mods\Super Mission Stats\Plugins\AMD\FSR2\Intermediate\Build\Win64\UE4Editor\Inc\FSR2TemporalUpscaling\FSR2Settings.generated.h
+S:/Code/Deep Rock Mods/Mods/Super Mission Stats/Plugins/AMD/FSR2/Intermediate/Build/Win64/UE4Editor/Inc/FSR2TemporalUpscaling/FSR2TemporalUpscaling.init.gen.cpp
