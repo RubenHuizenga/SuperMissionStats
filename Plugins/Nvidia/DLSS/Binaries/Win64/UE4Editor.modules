@@ -1,0 +1,8 @@
+{
+	"BuildId": "4f6f5c0a-5dc9-4fa4-8ba2-ab81c23f1d0d",
+	"Modules": 
+	{
+		"DLSS": "UE4Editor-DLSS.dll",
+		"DLSSBlueprint": "UE4Editor-DLSSBlueprint.dll"
+	}
+}
