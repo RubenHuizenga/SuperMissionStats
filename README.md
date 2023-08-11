@@ -33,7 +33,7 @@ The data is stored in Json format:
     "PlayerStats": {
         "Name": "",
         "Hero": "",
-        "PlayerLevel": 0,
+        "PlayerRank": 0,
         "HeroLevel": 0,
         "Promotions": 0,
         "TotalDeaths": 0,
@@ -42,7 +42,8 @@ The data is stored in Json format:
         "DamageDealt": {},
         "EnemiesKilled": {},
         "MostSingleHitDamage": 0.0,
-        "DPS": 0.0
+        "DPS": 0.0,
+        "TimesResupplied": 0
     },
     "MissionResult": {
         "MissionTime": 0,
@@ -77,5 +78,4 @@ Lucky you! If you do well, you may get a title at the end of a mission! Here is 
 Disclaimer: I pulled these numbers from where the sun don't shine so if you have an idea to improve this, do let me know
 
 ## Known Issues
-- The player level is not set yet, I don't know where to get it
 - There is no in game GUI, I could not be bothered to figure that out, but feel free to contribute!
