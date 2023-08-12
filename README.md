@@ -71,12 +71,23 @@ Lucky you! If you do well, you may get a title at the end of a mission! Here is 
 - The Medic -> 5 more revives then deaths
 - Glyphid Chow -> one death every 5 minutes
 - Wildlife Killer -> more then a 1000 kills
-- Molly's Best Friend -> a mule call every 2 minutes
+- Molly's Best Friend -> a mule call every 30 seconds
 - Light Bringer -> flare thrown every 15 seconds
 - Karl's Finest -> Rock & Stone every minute
 - The Disoriented -> looked at map every 2 minutes
 
 Disclaimer: I pulled these numbers from where the sun don't shine so if you have an idea to improve this, do let me know
 
+## Multiplayer
+
+The host should be able to get all the stats, but for clients some stats are unavailable. The events these rely on are only run on the server so clients can't get them. I'm looking into a fix for clients to get those stats anyway when the host also has the mod installed. The stats that are unavailable are:
+
+- EnemiesKilled
+- TotalDeaths
+- TotalRevives
+- TotalTimeDown
+
 ## Known Issues
 - There is no in game GUI, I could not be bothered to figure that out, but feel free to contribute!
+- Certain stats for the player are only available for the host.
+- When hosting with this mod installed, any clients will also see your chat message at the end of the game
