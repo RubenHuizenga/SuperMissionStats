@@ -43,7 +43,8 @@ The data is stored in Json format:
         "EnemiesKilled": {},
         "MostSingleHitDamage": 0.0,
         "DPS": 0.0,
-        "TimesResupplied": 0
+        "TimesResupplied": 0,
+        "Title": ""
     },
     "MissionResult": {
         "MissionTime": 0,
