@@ -6,6 +6,8 @@ Ever wanted to know how many times you jumped during a mission? Called ~~that he
 
 *If there is more you want to ask for, do let me know and I will see what i can do.
 
+There is no in game GUI. However, there is a separate app to easier view your stats. Download the latest version [here](https://github.com/RubenHuizenga/super-mission-stats-viewer/releases).
+
 ## General Info
 - This mod is my first attempt at modding, so it might be bad, any feedback is welcome
 - This mod is made using the [FSD-Template](https://github.com/DRG-Modding/FSD-Template), the [header dumps](https://github.com/DRG-Modding/Header-Dumps) and help from the [DRG Modding Discord](https://discord.gg/gUw32ayWGt)
@@ -28,9 +30,10 @@ The data is stored in Json format:
         "Warnings": [],
         "Secondaries": [],
         "Hazard": 0,
-        "StartDateTime": "0:00:00 PM UTC"
+        "StartDateTime": "Jan 1, 1970, 0:00:00 PM UTC"
     },
     "PlayerStats": {
+        "IsHost": true,
         "Name": "",
         "Hero": "",
         "PlayerRank": 0,
@@ -40,7 +43,7 @@ The data is stored in Json format:
         "TotalRevives": 0,
         "TotalTimeDown": 0.0,
         "DamageDealt": {},
-        "EnemiesKilled": {},
+        "EnemiesKilled": {} | 0,
         "FlaresThrown": 0,
         "Jumps": 0,
         "Pings": 0,
@@ -66,7 +69,7 @@ The data is stored in Json format:
             "Minerals mined by team": 0,
             "Hostiles killed by team": 0
         },
-        "MineralsMinedTeam": {}
+        "EndscreenResources": {}
     }
 }
 ```
@@ -75,7 +78,7 @@ The data is stored in Json format:
 Lucky you! If you do well, you may get a title at the end of a mission! Here is how: 
 
 - The Medic -> 5 more revives then deaths
-- Glyphid Chow -> one death every 5 minutes
+- Glyphid Chow -> one death every 2 minutes
 - Wildlife Killer -> more then a 1000 kills
 - Molly's Best Friend -> a mule call every 30 seconds
 - Light Bringer -> flare thrown every 15 seconds
@@ -86,12 +89,7 @@ Disclaimer: I pulled these numbers from where the sun don't shine so if you have
 
 ## Multiplayer
 
-The host should be able to get all the stats, but for clients some stats are unavailable. The events these rely on are only run on the server so clients can't get them. I'm looking into a fix for clients to get those stats anyway when the host also has the mod installed. The stats that are unavailable are:
-
-- EnemiesKilled
-- TotalDeaths
-- TotalRevives
-- TotalTimeDown
+The host should be able to get all the stats, but for clients some stats are unavailable. The events these rely on are only run on the server so clients can't get them. The stats that are unavailable are EnemiesKilled and TotalRevives. However, for EnemiesKilled clients will instead have the total kill count as seen on the mission end screen. This will not include some enemies that the host does count, e.g. lootbugs and cave angels.
 
 ## Known Issues
 - There is no in game GUI, I could not be bothered to figure that out, but feel free to contribute!
