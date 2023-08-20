@@ -29,8 +29,9 @@ The data is stored in Json format:
         "Primary": "",
         "Warnings": [],
         "Secondaries": [],
-        "Hazard": 0,
+        "Hazard": "",
         "StartDateTime": "Jan 1, 1970, 0:00:00 PM UTC"
+        "IsDeepDive": false
     },
     "PlayerStats": {
         "IsHost": true,
@@ -58,19 +59,41 @@ The data is stored in Json format:
     "MissionResult": {
         "MissionTime": 0,
         "Credits": {
-            "Primary Objective": 0,
-            "Secondary Objective": 0,
-            "0 x Survival Bonus": 0
+            "Reward Name": 0
         },
         "WasSuccess": false,
-        "XP": {
-            "Primary Objective": 0,
-            "Secondary Objective": 0,
-            "Minerals mined by team": 0,
-            "Hostiles killed by team": 0
+        "XP": {  
+            "Reward Name": 0
         },
         "EndscreenResources": {}
     }
+}
+```
+
+`MissionInfo` has a different structure when `IsDeepDive` is true. For each entered stage a new `Stage Number` object will be added with as name the index of the stage (starting at 0).
+
+```JSON
+{
+"MissionInfo": {
+    "Stage Number": {
+      "Seed": 0,
+      "Complexity": 0,
+      "Duration": 0,
+      "Mutator": "",
+      "DNA": "",
+      "Structure": "",
+      "Primary": "",
+      "Warnings": [],
+      "Secondaries": [],
+      "Hazard": ""
+    },
+    "IsElite": false,
+    "Name": "",
+    "IsDeepdive": true,
+    "StartDateTime": "Jan 1, 1970, 0:00:00 PM UTC",
+    "GlobalSeed": 0,
+    "Biome": ""
+  }
 }
 ```
 
