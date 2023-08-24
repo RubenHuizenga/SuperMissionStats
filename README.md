@@ -31,7 +31,8 @@ The data is stored in Json format:
         "Secondaries": [],
         "Hazard": "",
         "StartDateTime": "Jan 1, 1970, 0:00:00 PM UTC"
-        "IsDeepDive": false
+        "IsDeepDive": false,
+        "MissionType": ""
     },
     "PlayerStats": {
         "IsHost": true,
@@ -85,7 +86,8 @@ The data is stored in Json format:
       "Primary": "",
       "Warnings": [],
       "Secondaries": [],
-      "Hazard": ""
+      "Hazard": "",
+      "MissionType": ""
     },
     "IsElite": false,
     "Name": "",
