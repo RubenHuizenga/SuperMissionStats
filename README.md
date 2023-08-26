@@ -55,7 +55,8 @@ The data is stored in Json format:
         "LongestTimeAlive": 0,
         "MostSingleHitDamage": 0.0,
         "DPS": 0.0,
-        "Title": ""
+        "Title": "",
+        "DamageTaken": 0.0
     },
     "MissionResult": {
         "MissionTime": 0,
