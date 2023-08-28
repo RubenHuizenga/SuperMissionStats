@@ -110,12 +110,13 @@ Lucky you! If you do well, you may get a title at the end of a mission! Here is 
 - Light Bringer -> flare thrown every 15 seconds
 - Karl's Finest -> Rock & Stone every minute
 - The Disoriented -> looked at map every 2 minutes
+- The Indifferent -> no deaths and no revives when all other players have at least 1 death and 1 revive (only available in multiplayer)
 
 Disclaimer: I pulled these numbers from where the sun don't shine so if you have an idea to improve this, do let me know
 
 ## Multiplayer
 
-The host should be able to get all the stats, but for clients some stats are unavailable. The events these rely on are only run on the server so clients can't get them. The stats that are unavailable are EnemiesKilled and TotalRevives. However, for EnemiesKilled clients will instead have the total kill count as seen on the mission end screen. This will not include some enemies that the host does count, e.g. lootbugs and cave angels.
+The host should be able to get all the stats, but for clients the EnemiesKilled stat is unavailable. The event this relies on is only run on the server so clients can't get it. However, clients will instead have the total kill count as seen on the mission end screen. This will not include some enemies that the host does count, e.g. lootbugs and cave angels.
 
 ## Known Issues
 - There is no in game GUI, I could not be bothered to figure that out, but feel free to contribute!
