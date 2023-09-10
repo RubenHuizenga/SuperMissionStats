@@ -116,7 +116,9 @@ Disclaimer: I pulled these numbers from where the sun don't shine so if you have
 
 ## Multiplayer
 
-The host should be able to get all the stats, but for clients the EnemiesKilled stat is unavailable. The event this relies on is only run on the server so clients can't get it. However, clients will instead have the total kill count as seen on the mission end screen. This will not include some enemies that the host does count, e.g. lootbugs and cave angels.
+The host should be able to get all the stats, but for clients the EnemiesKilled stat is unavailable*. The event this relies on is only run on the server so clients can't get it. However, clients will instead have the total kill count as seen on the mission end screen. This will not include some enemies that the host does count, e.g. lootbugs and cave angels.
+
+\*However, when the host has this mod installed too, EnemiesKilled *will* be available. The only downside to this is that it excludes even more creatures than the kill count on the mission end screen. As far as I know, this is only the Stabber Vine, so it shouldn't be a big deal.
 
 ## Known Issues
 - There is no in game GUI, I could not be bothered to figure that out, but feel free to contribute!
