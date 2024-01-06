@@ -56,7 +56,7 @@ The data is stored in Json format:
         "MostSingleHitDamage": 0.0,
         "DPS": 0.0,
         "Title": "",
-        "DamageTaken": 0.0
+        "DamageSources": {}
     },
     "MissionResult": {
         "MissionTime": 0,
@@ -119,6 +119,9 @@ Disclaimer: I pulled these numbers from where the sun don't shine so if you have
 The host should be able to get all the stats, but for clients the EnemiesKilled stat is unavailable*. The event this relies on is only run on the server so clients can't get it. However, clients will instead have the total kill count as seen on the mission end screen. This will not include some enemies that the host does count, e.g. lootbugs and cave angels.
 
 \*However, when the host has this mod installed too, EnemiesKilled *will* be available. The only downside to this is that it excludes even more creatures than the kill count on the mission end screen. As far as I know, this is only the Stabber Vine, so it shouldn't be a big deal.
+
+## Damage Taken
+For the damage taken, I tried to collect as much data as possible. This includes the damage class and the causer of that damage. However, sometimes the causer is unknown and the key will include "Other" rather then the name of the causer. Also, sometimes the damage class is unknown, or "None". This is at least the case with the DoT of the acid spitter.
 
 ## Known Issues
 - There is no in game GUI, I could not be bothered to figure that out, but feel free to contribute!
