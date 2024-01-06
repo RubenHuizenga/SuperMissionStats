@@ -34,8 +34,8 @@
 /NODEFAULTLIB:"LIBCPD"
 /FUNCTIONPADMIN
 "S:\Code\UE\4.27.2\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
-"S:\Code\Deep Rock Mods\Mods\Super Mission Stats\Plugins\Nvidia\FSDAnsel\Intermediate\Build\Win64\UE4Editor\Development\FSDAnsel\Module.FSDAnsel.cpp.obj"
-"S:\Code\Deep Rock Mods\Mods\Super Mission Stats\Plugins\Nvidia\FSDAnsel\Intermediate\Build\Win64\UE4Editor\Development\FSDAnsel\Module.FSDAnsel.gen.cpp.obj"
+"S:\Code\Deep Rock Mods\Mods\Super Mission Stats\SuperMissionStats\Plugins\Nvidia\FSDAnsel\Intermediate\Build\Win64\UE4Editor\Development\FSDAnsel\Module.FSDAnsel.cpp.obj"
+"S:\Code\Deep Rock Mods\Mods\Super Mission Stats\SuperMissionStats\Plugins\Nvidia\FSDAnsel\Intermediate\Build\Win64\UE4Editor\Development\FSDAnsel\Module.FSDAnsel.gen.cpp.obj"
 "S:\Code\UE\4.27.2\Engine\Intermediate\Build\Win64\UE4Editor\Development\Default.rc2.res"
 "S:\Code\UE\4.27.2\Engine\Intermediate\Build\Win64\UE4Editor\Development\Core\UE4Editor-Core.lib"
 "S:\Code\UE\4.27.2\Engine\Intermediate\Build\Win64\UE4Editor\Development\CoreUObject\UE4Editor-CoreUObject.lib"
@@ -64,7 +64,7 @@
 "setupapi.lib"
 "dwmapi.lib"
 "imm32.lib"
-/OUT:"S:\Code\Deep Rock Mods\Mods\Super Mission Stats\Plugins\Nvidia\FSDAnsel\Binaries\Win64\UE4Editor-FSDAnsel.dll"
-/IMPLIB:"S:\Code\Deep Rock Mods\Mods\Super Mission Stats\Plugins\Nvidia\FSDAnsel\Intermediate\Build\Win64\UE4Editor\Development\FSDAnsel\UE4Editor-FSDAnsel.suppressed.lib"
-/PDB:"S:\Code\Deep Rock Mods\Mods\Super Mission Stats\Plugins\Nvidia\FSDAnsel\Binaries\Win64\UE4Editor-FSDAnsel.pdb"
+/OUT:"S:\Code\Deep Rock Mods\Mods\Super Mission Stats\SuperMissionStats\Plugins\Nvidia\FSDAnsel\Binaries\Win64\UE4Editor-FSDAnsel.dll"
+/IMPLIB:"S:\Code\Deep Rock Mods\Mods\Super Mission Stats\SuperMissionStats\Plugins\Nvidia\FSDAnsel\Intermediate\Build\Win64\UE4Editor\Development\FSDAnsel\UE4Editor-FSDAnsel.suppressed.lib"
+/PDB:"S:\Code\Deep Rock Mods\Mods\Super Mission Stats\SuperMissionStats\Plugins\Nvidia\FSDAnsel\Binaries\Win64\UE4Editor-FSDAnsel.pdb"
 /ignore:4078

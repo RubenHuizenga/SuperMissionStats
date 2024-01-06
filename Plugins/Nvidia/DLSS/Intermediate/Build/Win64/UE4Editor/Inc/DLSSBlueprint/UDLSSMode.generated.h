@@ -14,7 +14,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #define DLSSBLUEPRINT_UDLSSMode_generated_h
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID Super_Mission_Stats_Plugins_Nvidia_DLSS_Source_DLSSBlueprint_Public_UDLSSMode_h
+#define CURRENT_FILE_ID SuperMissionStats_Plugins_Nvidia_DLSS_Source_DLSSBlueprint_Public_UDLSSMode_h
 
 
 #define FOREACH_ENUM_UDLSSMODE(op) \

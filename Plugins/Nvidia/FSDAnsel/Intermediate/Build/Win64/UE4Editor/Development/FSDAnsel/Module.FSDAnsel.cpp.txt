@@ -1,13 +1,13 @@
-S:\Code\Deep Rock Mods\Mods\Super Mission Stats\Plugins\Nvidia\FSDAnsel\Intermediate\Build\Win64\UE4Editor\Development\FSDAnsel\Definitions.FSDAnsel.h
-S:/Code/Deep Rock Mods/Mods/Super Mission Stats/Plugins/Nvidia/FSDAnsel/Source/FSDAnsel/Private/FSDAnselFunctionLibrary.cpp
-S:\Code\Deep Rock Mods\Mods\Super Mission Stats\Plugins\Nvidia\FSDAnsel\Source\FSDAnsel\Public\FSDAnselFunctionLibrary.h
+S:\Code\Deep Rock Mods\Mods\Super Mission Stats\SuperMissionStats\Plugins\Nvidia\FSDAnsel\Intermediate\Build\Win64\UE4Editor\Development\FSDAnsel\Definitions.FSDAnsel.h
+S:/Code/Deep Rock Mods/Mods/Super Mission Stats/SuperMissionStats/Plugins/Nvidia/FSDAnsel/Source/FSDAnsel/Private/FSDAnselFunctionLibrary.cpp
+S:\Code\Deep Rock Mods\Mods\Super Mission Stats\SuperMissionStats\Plugins\Nvidia\FSDAnsel\Source\FSDAnsel\Public\FSDAnselFunctionLibrary.h
 S:\Code\UE\4.27.2\Engine\Source\Runtime\CoreUObject\Public\UObject/NoExportTypes.h
 S:\Code\UE\4.27.2\Engine\Source\Runtime\CoreUObject\Public\UObject/PropertyAccessUtil.h
 S:\Code\UE\4.27.2\Engine\Source\Runtime\Core\Public\Math/UnitConversion.h
 S:\Code\UE\4.27.2\Engine\Source\Runtime\Core\Public\Math/UnitConversion.inl
 S:\Code\UE\4.27.2\Engine\Source\Runtime\Core\Public\Internationalization/PolyglotTextData.h
 S:\Code\UE\4.27.2\Engine\Source\Runtime\CoreUObject\Public\AssetRegistry/ARFilter.h
-S:\Code\Deep Rock Mods\Mods\Super Mission Stats\Plugins\Nvidia\FSDAnsel\Source\FSDAnsel\Public\EUIControlEffectTarget.h
-S:\Code\Deep Rock Mods\Mods\Super Mission Stats\Plugins\Nvidia\FSDAnsel\Intermediate\Build\Win64\UE4Editor\Inc\FSDAnsel\EUIControlEffectTarget.generated.h
-S:\Code\Deep Rock Mods\Mods\Super Mission Stats\Plugins\Nvidia\FSDAnsel\Intermediate\Build\Win64\UE4Editor\Inc\FSDAnsel\FSDAnselFunctionLibrary.generated.h
-S:/Code/Deep Rock Mods/Mods/Super Mission Stats/Plugins/Nvidia/FSDAnsel/Source/FSDAnsel/Private/FSDAnselModule.cpp
+S:\Code\Deep Rock Mods\Mods\Super Mission Stats\SuperMissionStats\Plugins\Nvidia\FSDAnsel\Source\FSDAnsel\Public\EUIControlEffectTarget.h
+S:\Code\Deep Rock Mods\Mods\Super Mission Stats\SuperMissionStats\Plugins\Nvidia\FSDAnsel\Intermediate\Build\Win64\UE4Editor\Inc\FSDAnsel\EUIControlEffectTarget.generated.h
+S:\Code\Deep Rock Mods\Mods\Super Mission Stats\SuperMissionStats\Plugins\Nvidia\FSDAnsel\Intermediate\Build\Win64\UE4Editor\Inc\FSDAnsel\FSDAnselFunctionLibrary.generated.h
+S:/Code/Deep Rock Mods/Mods/Super Mission Stats/SuperMissionStats/Plugins/Nvidia/FSDAnsel/Source/FSDAnsel/Private/FSDAnselModule.cpp

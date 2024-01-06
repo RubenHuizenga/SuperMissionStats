@@ -1,15 +1,15 @@
-S:\Code\Deep Rock Mods\Mods\Super Mission Stats\Plugins\Nvidia\DLSS\Intermediate\Build\Win64\UE4Editor\Development\DLSSBlueprint\Definitions.DLSSBlueprint.h
-S:/Code/Deep Rock Mods/Mods/Super Mission Stats/Plugins/Nvidia/DLSS/Source/DLSSBlueprint/Private/DLSSBlueprintModule.cpp
-S:/Code/Deep Rock Mods/Mods/Super Mission Stats/Plugins/Nvidia/DLSS/Source/DLSSBlueprint/Private/DLSSLibrary.cpp
-S:\Code\Deep Rock Mods\Mods\Super Mission Stats\Plugins\Nvidia\DLSS\Source\DLSSBlueprint\Public\DLSSLibrary.h
+S:\Code\Deep Rock Mods\Mods\Super Mission Stats\SuperMissionStats\Plugins\Nvidia\DLSS\Intermediate\Build\Win64\UE4Editor\Development\DLSSBlueprint\Definitions.DLSSBlueprint.h
+S:/Code/Deep Rock Mods/Mods/Super Mission Stats/SuperMissionStats/Plugins/Nvidia/DLSS/Source/DLSSBlueprint/Private/DLSSBlueprintModule.cpp
+S:/Code/Deep Rock Mods/Mods/Super Mission Stats/SuperMissionStats/Plugins/Nvidia/DLSS/Source/DLSSBlueprint/Private/DLSSLibrary.cpp
+S:\Code\Deep Rock Mods\Mods\Super Mission Stats\SuperMissionStats\Plugins\Nvidia\DLSS\Source\DLSSBlueprint\Public\DLSSLibrary.h
 S:\Code\UE\4.27.2\Engine\Source\Runtime\CoreUObject\Public\UObject/NoExportTypes.h
 S:\Code\UE\4.27.2\Engine\Source\Runtime\CoreUObject\Public\UObject/PropertyAccessUtil.h
 S:\Code\UE\4.27.2\Engine\Source\Runtime\Core\Public\Math/UnitConversion.h
 S:\Code\UE\4.27.2\Engine\Source\Runtime\Core\Public\Math/UnitConversion.inl
 S:\Code\UE\4.27.2\Engine\Source\Runtime\Core\Public\Internationalization/PolyglotTextData.h
 S:\Code\UE\4.27.2\Engine\Source\Runtime\CoreUObject\Public\AssetRegistry/ARFilter.h
-S:\Code\Deep Rock Mods\Mods\Super Mission Stats\Plugins\Nvidia\DLSS\Source\DLSSBlueprint\Public\UDLSSMode.h
-S:\Code\Deep Rock Mods\Mods\Super Mission Stats\Plugins\Nvidia\DLSS\Intermediate\Build\Win64\UE4Editor\Inc\DLSSBlueprint\UDLSSMode.generated.h
-S:\Code\Deep Rock Mods\Mods\Super Mission Stats\Plugins\Nvidia\DLSS\Source\DLSSBlueprint\Public\UDLSSSupport.h
-S:\Code\Deep Rock Mods\Mods\Super Mission Stats\Plugins\Nvidia\DLSS\Intermediate\Build\Win64\UE4Editor\Inc\DLSSBlueprint\UDLSSSupport.generated.h
-S:\Code\Deep Rock Mods\Mods\Super Mission Stats\Plugins\Nvidia\DLSS\Intermediate\Build\Win64\UE4Editor\Inc\DLSSBlueprint\DLSSLibrary.generated.h
+S:\Code\Deep Rock Mods\Mods\Super Mission Stats\SuperMissionStats\Plugins\Nvidia\DLSS\Source\DLSSBlueprint\Public\UDLSSMode.h
+S:\Code\Deep Rock Mods\Mods\Super Mission Stats\SuperMissionStats\Plugins\Nvidia\DLSS\Intermediate\Build\Win64\UE4Editor\Inc\DLSSBlueprint\UDLSSMode.generated.h
+S:\Code\Deep Rock Mods\Mods\Super Mission Stats\SuperMissionStats\Plugins\Nvidia\DLSS\Source\DLSSBlueprint\Public\UDLSSSupport.h
+S:\Code\Deep Rock Mods\Mods\Super Mission Stats\SuperMissionStats\Plugins\Nvidia\DLSS\Intermediate\Build\Win64\UE4Editor\Inc\DLSSBlueprint\UDLSSSupport.generated.h
+S:\Code\Deep Rock Mods\Mods\Super Mission Stats\SuperMissionStats\Plugins\Nvidia\DLSS\Intermediate\Build\Win64\UE4Editor\Inc\DLSSBlueprint\DLSSLibrary.generated.h

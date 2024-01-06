@@ -34,8 +34,8 @@
 /NODEFAULTLIB:"LIBCPD"
 /FUNCTIONPADMIN
 "S:\Code\UE\4.27.2\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
-"S:\Code\Deep Rock Mods\Mods\Super Mission Stats\Plugins\Nvidia\DLSS\Intermediate\Build\Win64\UE4Editor\Development\DLSS\Module.DLSS.cpp.obj"
-"S:\Code\Deep Rock Mods\Mods\Super Mission Stats\Plugins\Nvidia\DLSS\Intermediate\Build\Win64\UE4Editor\Development\DLSS\Module.DLSS.gen.cpp.obj"
+"S:\Code\Deep Rock Mods\Mods\Super Mission Stats\SuperMissionStats\Plugins\Nvidia\DLSS\Intermediate\Build\Win64\UE4Editor\Development\DLSS\Module.DLSS.cpp.obj"
+"S:\Code\Deep Rock Mods\Mods\Super Mission Stats\SuperMissionStats\Plugins\Nvidia\DLSS\Intermediate\Build\Win64\UE4Editor\Development\DLSS\Module.DLSS.gen.cpp.obj"
 "S:\Code\UE\4.27.2\Engine\Intermediate\Build\Win64\UE4Editor\Development\Default.rc2.res"
 "S:\Code\UE\4.27.2\Engine\Intermediate\Build\Win64\UE4Editor\Development\Core\UE4Editor-Core.lib"
 "S:\Code\UE\4.27.2\Engine\Intermediate\Build\Win64\UE4Editor\Development\CoreUObject\UE4Editor-CoreUObject.lib"
@@ -64,7 +64,7 @@
 "setupapi.lib"
 "dwmapi.lib"
 "imm32.lib"
-/OUT:"S:\Code\Deep Rock Mods\Mods\Super Mission Stats\Plugins\Nvidia\DLSS\Binaries\Win64\UE4Editor-DLSS.dll"
-/IMPLIB:"S:\Code\Deep Rock Mods\Mods\Super Mission Stats\Plugins\Nvidia\DLSS\Intermediate\Build\Win64\UE4Editor\Development\DLSS\UE4Editor-DLSS.suppressed.lib"
-/PDB:"S:\Code\Deep Rock Mods\Mods\Super Mission Stats\Plugins\Nvidia\DLSS\Binaries\Win64\UE4Editor-DLSS.pdb"
+/OUT:"S:\Code\Deep Rock Mods\Mods\Super Mission Stats\SuperMissionStats\Plugins\Nvidia\DLSS\Binaries\Win64\UE4Editor-DLSS.dll"
+/IMPLIB:"S:\Code\Deep Rock Mods\Mods\Super Mission Stats\SuperMissionStats\Plugins\Nvidia\DLSS\Intermediate\Build\Win64\UE4Editor\Development\DLSS\UE4Editor-DLSS.suppressed.lib"
+/PDB:"S:\Code\Deep Rock Mods\Mods\Super Mission Stats\SuperMissionStats\Plugins\Nvidia\DLSS\Binaries\Win64\UE4Editor-DLSS.pdb"
 /ignore:4078

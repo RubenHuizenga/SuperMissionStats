@@ -29,10 +29,10 @@
 /wd4244
 /wd4838
 /I .
-/I "S:\Code\Deep Rock Mods\Mods\Super Mission Stats\Plugins\Nvidia\FSDAnsel\Source\FSDAnsel\Private"
-/I "S:\Code\Deep Rock Mods\Mods\Super Mission Stats\Plugins\Nvidia\FSDAnsel\Intermediate\Build\Win64\UE4Editor\Inc\FSDAnsel"
-/I "S:\Code\Deep Rock Mods\Mods\Super Mission Stats\Plugins\Nvidia\FSDAnsel\Source"
-/I "S:\Code\Deep Rock Mods\Mods\Super Mission Stats\Plugins\Nvidia\FSDAnsel\Source\FSDAnsel\Public"
+/I "S:\Code\Deep Rock Mods\Mods\Super Mission Stats\SuperMissionStats\Plugins\Nvidia\FSDAnsel\Source\FSDAnsel\Private"
+/I "S:\Code\Deep Rock Mods\Mods\Super Mission Stats\SuperMissionStats\Plugins\Nvidia\FSDAnsel\Intermediate\Build\Win64\UE4Editor\Inc\FSDAnsel"
+/I "S:\Code\Deep Rock Mods\Mods\Super Mission Stats\SuperMissionStats\Plugins\Nvidia\FSDAnsel\Source"
+/I "S:\Code\Deep Rock Mods\Mods\Super Mission Stats\SuperMissionStats\Plugins\Nvidia\FSDAnsel\Source\FSDAnsel\Public"
 /I Runtime
 /I Runtime\TraceLog\Public
 /I Runtime\Core\Public
@@ -264,9 +264,9 @@
 /FI"S:\Code\UE\4.27.2\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h"
 /Yu"S:\Code\UE\4.27.2\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h"
 /Fp"S:\Code\UE\4.27.2\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.pch"
-"S:\Code\Deep Rock Mods\Mods\Super Mission Stats\Plugins\Nvidia\FSDAnsel\Intermediate\Build\Win64\UE4Editor\Development\FSDAnsel\Module.FSDAnsel.cpp"
-/FI"S:\Code\Deep Rock Mods\Mods\Super Mission Stats\Plugins\Nvidia\FSDAnsel\Intermediate\Build\Win64\UE4Editor\Development\FSDAnsel\Definitions.FSDAnsel.h"
-/Fo"S:\Code\Deep Rock Mods\Mods\Super Mission Stats\Plugins\Nvidia\FSDAnsel\Intermediate\Build\Win64\UE4Editor\Development\FSDAnsel\Module.FSDAnsel.cpp.obj"
+"S:\Code\Deep Rock Mods\Mods\Super Mission Stats\SuperMissionStats\Plugins\Nvidia\FSDAnsel\Intermediate\Build\Win64\UE4Editor\Development\FSDAnsel\Module.FSDAnsel.cpp"
+/FI"S:\Code\Deep Rock Mods\Mods\Super Mission Stats\SuperMissionStats\Plugins\Nvidia\FSDAnsel\Intermediate\Build\Win64\UE4Editor\Development\FSDAnsel\Definitions.FSDAnsel.h"
+/Fo"S:\Code\Deep Rock Mods\Mods\Super Mission Stats\SuperMissionStats\Plugins\Nvidia\FSDAnsel\Intermediate\Build\Win64\UE4Editor\Development\FSDAnsel\Module.FSDAnsel.cpp.obj"
 /TP
 /GR-
 /W4
